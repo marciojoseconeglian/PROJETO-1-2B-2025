@@ -11,3 +11,9 @@ height: 840px;
 background-color: beige;
 
 }
+
+.caixa_camisa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
